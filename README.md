@@ -18,7 +18,7 @@ glugglug.github.io
 
 
 ####Actions
-    rake generate  # Generate site
+    rake generate  # Generate site (source -> public)
     rake preview   # Watches and mounts webserver
-    rake deploy    # Push static site to master branch
+    rake deploy    # Push static site to master branch (public -> _deploy -> origin/master)
 
