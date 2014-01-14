@@ -1,0 +1,9 @@
+---
+layout: post
+title: "goon"
+date: 2014-01-14 16:50:05 -0500
+comments: true
+categories: person
+---
+![goon](images/goon.jpg)
+The goon laid back and took a bath in the mountain slush. The sounds of him adjusting were dampened by the thick blanket of snow. Even his thoughts were muted by the layers around him.
