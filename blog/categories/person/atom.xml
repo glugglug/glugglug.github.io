@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Eating, drinking, etc.]]></title>
-  <link href="http://glugglug.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: person | Eating, drinking, etc.]]></title>
+  <link href="http://glugglug.github.io/blog/categories/person/atom.xml" rel="self"/>
   <link href="http://glugglug.github.io/"/>
   <updated>2014-01-14T16:55:40-05:00</updated>
   <id>http://glugglug.github.io/</id>
