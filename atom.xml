@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Drinking out of a bottle]]></title>
+  <title><![CDATA[Eating, drinking, etc.]]></title>
   <link href="http://glugglug.github.io/atom.xml" rel="self"/>
   <link href="http://glugglug.github.io/"/>
-  <updated>2014-01-14T16:40:50-05:00</updated>
+  <updated>2014-01-14T16:43:38-05:00</updated>
   <id>http://glugglug.github.io/</id>
   <author>
     <name><![CDATA[Maybarrel Honeytrent]]></name>
